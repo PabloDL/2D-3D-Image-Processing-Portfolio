@@ -62,17 +62,17 @@ class Cell{
         n4();
         break;
       case 5:
-      
+        n5();
+        break;
       case 6: 
-      
+        n6();
+        break();
       case 7:
-      
+        n7();
+        break;
       case 8:
-      
-      
-      
-      
-      
+        n8();
+        break;      
       }
   }
   
@@ -140,9 +140,6 @@ class Cell{
   }
   
   void n0(){
-   
   }
-
-  
 }
   
